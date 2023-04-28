@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **Telegram: @inside_I_oleg**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
