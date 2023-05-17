@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleh</h1>
 <h3 align="center">A Python web developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **Django and DRF**
+- 🌱 I’m the Python Back-end Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/BabaykaBo](https://github.com/BabaykaBo)
 
