@@ -3,7 +3,7 @@
 
 - 🌱 I’m the Back-end Developer
 
-- 👨‍💻 All of my projects are available at [my Profile GitHub](https://github.com/BabaykaBo)
+- 👨‍💻 All of my projects are available at [my Profile GitHub](https://github.com/BabaykaBo?tab=repositories)
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/olehmazniev/)**
 
