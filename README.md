@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleh</h1>
-<h3 align="center">Web developer from Ukraine</h3>
+<h3 align="center">🇺🇦Ukraine🇺🇦</h3>
 
-- 🌱 I’m the Back-end Developer
+- 🌱 I’m the Backend Developer
 
 - 👨‍💻 All of my projects are available at [my Profile GitHub](https://github.com/BabaykaBo?tab=repositories)
 
