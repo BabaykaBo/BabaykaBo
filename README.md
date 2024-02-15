@@ -3,9 +3,9 @@
 
 - 🌱 I’m the Back-end Developer
 
-- 👨‍💻 All of my projects are available at [https://github.com/BabaykaBo](https://github.com/BabaykaBo)
+- 👨‍💻 All of my projects are available at [my Profile GitHub](https://github.com/BabaykaBo)
 
-- 📫 How to reach me **Telegram: @inside_I_oleg**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/olehmazniev/)**
 
 <p align="left">
 </p>
