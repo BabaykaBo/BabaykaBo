@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,javascript,jquery,mysql,sqlite,html,css,git,vue" />
+    <img src="https://skillicons.dev/icons?i=php,javascript,jquery,mysql,sqlite,html,css,git,vue,postman" />
   </a>
 </p>
 
@@ -50,6 +50,7 @@
 - Vue.js
 - Apache
 - Telegram Bot API
+- Postman
 
 </p>  
 </div>
