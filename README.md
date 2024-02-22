@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,javascript,jquery,mysql,sqlite,html,css,git,vue,postman" />
+    <img src="https://skillicons.dev/icons?i=php,javascript,jquery,mysql,sqlite,html,css,git,postman" />
   </a>
 </p>
 
@@ -47,7 +47,6 @@
 - HTML
 - CSS
 - Git
-- Vue.js
 - Apache
 - Telegram Bot API
 - Postman
