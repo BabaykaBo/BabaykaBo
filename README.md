@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oleh 🇺🇦Ukraine🇺🇦</h1>
+<h1 align="center">Hi 👋, I'm Oleh</h1>
 
 <div id="about">
 <h2>About Me</h2>
