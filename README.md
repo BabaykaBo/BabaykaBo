@@ -8,9 +8,10 @@
 - 📚 I systematically study something new, I am found of trying different program languages, tools etc
 - 👨‍💻 All of my projects are available at [my GitHub Repository](https://github.com/BabaykaBo?tab=repositories)
 - 📫 Feel free to write to my LinkedIn account
-<div id="badges">
-<a href="https://www.linkedin.com/in/olehmazniev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+  <div id="badges">
+           <a href="https://www.linkedin.com/in/olehmazniev/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>  
 
@@ -33,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,javascript,jquery,mysql,sqlite,html,css,git,postman" />
+    <img src="https://skillicons.dev/icons?i=php,javascript,jquery,mysql,sqlite,html,css,bootstrap,laravel,git,postman,bash" />
   </a>
 </p>
 
@@ -47,10 +48,14 @@
 - SQLite
 - HTML
 - CSS
+- Bootstrap
+- Opencart
+- Laravel
 - Git
 - Apache
 - Telegram Bot API
 - Postman
+- Bash
 - RESTful APIs
 
 </p>  
