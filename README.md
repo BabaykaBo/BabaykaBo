@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,javascript,jquery,mysql,sqlite,html,css,bootstrap,laravel,git,postman,bash" />
+    <img src="https://skillicons.dev/icons?i=php,javascript,jquery,mysql,sqlite,html,css,bootstrap,laravel,git,postman,bash,github" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 - JavaScript
 - JQuery
 - SQL
-- MySQL
+- MySQL/MariaDB
 - SQLite
 - HTML
 - CSS
