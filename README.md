@@ -21,7 +21,7 @@
 <div id="stats">
   <h2>Stats</h2>
   <div align="center">
-     <img src="https://streak-stats.demolab.com?user=BabaykaBo&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=BabaykaBo&theme=highcontrast" alt=" "/>
     <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabaykaBo&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
   </div>
@@ -34,7 +34,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,javascript,jquery,mysql,sqlite,html,css,bootstrap,laravel,git,postman,bash,github" />
+    <img src="https://skillicons.dev/icons?i=php,javascript,golang,jquery,mysql,sqlite,html,css" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,git,postman,bash,github" />
   </a>
 </p>
 
@@ -42,6 +47,7 @@
 
 - PHP
 - JavaScript
+- Golang
 - JQuery
 - SQL
 - MySQL/MariaDB
